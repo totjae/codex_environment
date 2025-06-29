@@ -40,5 +40,6 @@ android {
 }
 
 flutter {
-    source = "../.."
+    // Flutter source relative to this Android module
+    source = ".."
 }
